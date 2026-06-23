@@ -1,0 +1,83 @@
+name: law_briefly
+description: "Read Law. Briefly. — Offline-first legal education platform for Indian law students."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ── Icons ─────────────────────────────────────
+  cupertino_icons: ^1.0.8
+
+  # ── State Management ─────────────────────────
+  flutter_riverpod: ^2.5.1
+
+  # ── Navigation ────────────────────────────────
+  go_router: ^14.2.0
+
+  # ── Local Database ────────────────────────────
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+  path_provider: ^2.1.3
+  path: ^1.9.0
+
+  # ── Local Storage / Session ───────────────────
+  shared_preferences: ^2.2.3
+
+  # ── PDF Reader ─────────────────────────────────
+  pdfx: ^2.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # ── Linting ───────────────────────────────────
+  flutter_lints: ^4.0.0
+
+  # ── Code Generation (Isar) ────────────────────
+  isar_generator: ^3.1.0+1
+  build_runner: ^2.4.11
+
+flutter:
+  uses-material-design: true
+
+  # ─────────────────────────────────────────────
+  # MARK: — ASSETS
+  # ─────────────────────────────────────────────
+  assets:
+    # ── Legal content (offline JSON) ────────────
+    - assets/data/
+    - assets/data/acts/
+    - assets/data/constitution/
+    - assets/data/case_laws/
+    - assets/data/academic/
+
+    # ── Academic PDFs (Year-wise) ────────────────
+    - assets/pdfs/
+    - assets/pdfs/y1/
+    - assets/pdfs/y2/
+    - assets/pdfs/y3/
+    - assets/pdfs/y4/
+    - assets/pdfs/y5/
+
+    # ── Images / Branding ────────────────────────
+    - assets/images/
+
+  # ─────────────────────────────────────────────
+  # MARK: — FONTS
+  # ─────────────────────────────────────────────
+  # Georgia is used for legal reading content (system font fallback
+  # is used for UI). If bundling Georgia .ttf files, register here:
+  #
+  # fonts:
+  #   - family: Georgia
+  #     fonts:
+  #       - asset: assets/fonts/Georgia-Regular.ttf
+  #       - asset: assets/fonts/Georgia-Bold.ttf
+  #         weight: 700
+  #       - asset: assets/fonts/Georgia-Italic.ttf
+  #         style: italic

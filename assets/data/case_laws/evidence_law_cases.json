@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cl_praful_desai",
+    "title": "State of Maharashtra v. Praful B. Desai",
+    "citation": "(2003) 4 SCC 601",
+    "court": "Supreme Court of India",
+    "year": "2003",
+    "related_section_ids": ["bsa_s57", "bsa_s58"],
+    "related_article_ids": [],
+    "related_act_ids": ["bsa_2023"],
+    "facts": "The question arose whether a witness could give evidence through video conferencing in a criminal trial. The accused was abroad and the prosecution sought to examine witnesses through video link from another country. The High Court held video conferencing was not permissible under the Code of Criminal Procedure.",
+    "issues": "1. Whether evidence by video conferencing amounts to 'presence' of the witness within the meaning of the Code of Criminal Procedure.\n2. Whether video conferencing satisfies the requirements of examination-in-chief, cross-examination and re-examination.\n3. Whether the court can allow a mode of recording evidence not expressly mentioned in the statute.",
+    "judgment": "The Supreme Court held that evidence can be recorded by video conferencing. Such evidence has the same sanctity as evidence recorded in court with the witness physically present. The court allowed video conferencing as a valid mode of recording evidence in criminal trials.",
+    "reasoning": "The court interpreted the words 'presence' and 'appearing' in a purposive manner. The purpose of requiring the presence of a witness is to enable the court to observe the demeanour of the witness and to test his credibility under cross-examination. Video conferencing enables the court to observe the witness and conduct cross-examination effectively. Technological advancement cannot be an impediment to justice.",
+    "significance": "This case opened the door for electronic recording of evidence in criminal trials in India. It has been widely followed and its ratio applied to examine witnesses abroad, ill witnesses, and child victims."
+  },
+  {
+    "id": "cl_tomaso_bruno",
+    "title": "Tomaso Bruno v. State of Uttar Pradesh",
+    "citation": "(2015) 7 SCC 178",
+    "court": "Supreme Court of India",
+    "year": "2015",
+    "related_section_ids": ["bsa_s57", "bsa_s63"],
+    "related_article_ids": [],
+    "related_act_ids": ["bsa_2023"],
+    "facts": "Italian nationals were accused of murdering their business associate in a hotel room in Agra. The case depended substantially on electronic evidence including CCTV footage and mobile records. The Sessions Court convicted the accused on the basis of this evidence.",
+    "issues": "1. Whether electronic evidence was properly proved in accordance with law.\n2. Whether the chain of custody of electronic records was properly established.\n3. Whether CCTV footage is admissible without a certificate under Section 65B of the Indian Evidence Act (now Section 63 of BSA).",
+    "judgment": "The Supreme Court set aside the conviction and acquitted the accused. The electronic evidence had not been proved in accordance with law. No certificate as required had been produced and the conditions for secondary evidence of electronic records had not been satisfied.",
+    "reasoning": "Electronic records are secondary evidence. They must be proved by producing a certificate as required by Section 65B of the Indian Evidence Act (now Section 63 of BSA). The requirement of the certificate is mandatory. In the absence of such certification, the evidence is inadmissible. The prosecution failed to discharge this burden.",
+    "significance": "Authoritative statement on the admissibility of electronic evidence in India. The requirement of the certificate under Section 65B (now Section 63, BSA) is mandatory and not merely directory."
+  },
+  {
+    "id": "cl_anvar_basheer",
+    "title": "Anvar P.V. v. P.K. Basheer",
+    "citation": "(2014) 10 SCC 473",
+    "court": "Supreme Court of India",
+    "year": "2014",
+    "related_section_ids": ["bsa_s63"],
+    "related_article_ids": [],
+    "related_act_ids": ["bsa_2023"],
+    "facts": "An election petition challenged the result of a Kerala Legislative Assembly election. The petitioner sought to produce compact discs and printouts of electronic records as evidence without producing the certificate required under Section 65B of the Indian Evidence Act.",
+    "issues": "1. Whether a CD or electronic record can be admitted in evidence without the certificate required under Section 65B.\n2. Whether oral evidence can substitute for the Section 65B certificate.\n3. What is the correct interpretation of Sections 65A and 65B of the Indian Evidence Act.",
+    "judgment": "The Supreme Court held that electronic evidence is admissible ONLY if the certificate under Section 65B is produced. Oral evidence of the contents of an electronic record is not permissible. The earlier decision in Navjot Sandhu was overruled to the extent it held otherwise.",
+    "reasoning": "Sections 65A and 65B form a complete code in relation to admissibility of electronic evidence. The legislature has created a specific and exhaustive provision. Courts cannot bypass this provision by resorting to oral evidence of the contents of electronic records.",
+    "significance": "Overruled the contrary position taken in State (NCT of Delhi) v. Navjot Sandhu. Settled the law that the Section 65B certificate is a mandatory requirement. This remains the governing law under Section 63 of BSA."
+  }
+]

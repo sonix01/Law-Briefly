@@ -1,0 +1,117 @@
+{
+  "id": "part_1",
+  "part_number": "I",
+  "title": "The Union and its Territory",
+  "articles": [
+    {
+      "id": "preamble",
+      "article_number": "Preamble",
+      "title": "Preamble of the Constitution",
+      "is_preamble": true,
+      "is_repealed": false,
+      "is_omitted": false,
+      "status_note": null,
+      "content": [
+        {
+          "type": "main",
+          "label": null,
+          "text": "This is a study note summarising the Preamble. The Preamble sets out the ideals and objectives of the Constitution. It declares India to be a Sovereign, Socialist, Secular, Democratic Republic. The Preamble commits the State to secure Justice (social, economic and political), Liberty (of thought, expression, belief, faith and worship), Equality (of status and opportunity), and Fraternity (assuring dignity of the individual and unity and integrity of the Nation). It was adopted on the 26th day of November 1949 by the Constituent Assembly."
+        },
+        {
+          "type": "explanation",
+          "label": "Note for students.—",
+          "text": "The Preamble is not a justiciable part of the Constitution but it is an important aid to the interpretation of constitutional provisions. The Supreme Court has held that the Preamble is part of the Constitution and can be used to understand the intent of the framers."
+        }
+      ],
+      "case_law_ids": []
+    },
+    {
+      "id": "art_1",
+      "article_number": "1",
+      "title": "Name and territory of the Union",
+      "is_preamble": false,
+      "is_repealed": false,
+      "is_omitted": false,
+      "status_note": null,
+      "content": [
+        {
+          "type": "main",
+          "label": null,
+          "text": "Study note: This article declares that India, that is Bharat, shall be a Union of States. The article also provides that the States and their territories shall be as specified in the First Schedule of the Constitution. The territory of India comprises the territories of the States, the Union territories specified in the First Schedule, and any other territories that may be acquired by India."
+        },
+        {
+          "type": "explanation",
+          "label": "Key point.—",
+          "text": "The use of the word 'Union' rather than 'Federation' is significant. The Constitution has been deliberately drafted so that the Centre is stronger than the States. The framers borrowed this concept from the Canadian Constitution."
+        }
+      ],
+      "case_law_ids": []
+    },
+    {
+      "id": "art_2",
+      "article_number": "2",
+      "title": "Admission or establishment of new States",
+      "is_preamble": false,
+      "is_repealed": false,
+      "is_omitted": false,
+      "status_note": null,
+      "content": [
+        {
+          "type": "main",
+          "label": null,
+          "text": "Study note: This article grants Parliament the power to admit new States into the Union or to establish new States on such terms and conditions as it thinks fit. This power is wide and is not subject to the restrictions contained in Article 3."
+        }
+      ],
+      "case_law_ids": []
+    },
+    {
+      "id": "art_3",
+      "article_number": "3",
+      "title": "Formation of new States and alteration of areas, boundaries or names of existing States",
+      "is_preamble": false,
+      "is_repealed": false,
+      "is_omitted": false,
+      "status_note": null,
+      "content": [
+        {
+          "type": "main",
+          "label": null,
+          "text": "Study note: Parliament may by law form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State. Parliament may also increase or diminish the area of any State, and alter the boundaries or name of any State."
+        },
+        {
+          "type": "proviso",
+          "label": "Important proviso.—",
+          "text": "No Bill for this purpose shall be introduced in either House of Parliament except on the recommendation of the President. Where the proposal affects any State, the Bill must first be referred by the President to the Legislature of that State for expressing its views within a specified period."
+        },
+        {
+          "type": "explanation",
+          "label": "Key distinction.—",
+          "text": "Unlike Article 368 (constitutional amendment), Article 3 does not require the consent of the affected State — only its views. Parliament can override those views and proceed with the reorganisation."
+        }
+      ],
+      "case_law_ids": []
+    },
+    {
+      "id": "art_4",
+      "article_number": "4",
+      "title": "Laws made under articles 2 and 3 to provide for the amendment of the First and Fourth Schedules",
+      "is_preamble": false,
+      "is_repealed": false,
+      "is_omitted": false,
+      "status_note": null,
+      "content": [
+        {
+          "type": "main",
+          "label": null,
+          "text": "Study note: Any law made by Parliament under Articles 2 and 3 shall contain the necessary provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law. Any such law shall also contain such supplemental, incidental and consequential provisions as Parliament may deem necessary."
+        },
+        {
+          "type": "explanation",
+          "label": "Important note.—",
+          "text": "Such a law shall not be deemed to be an amendment of the Constitution for the purposes of Article 368. This means that reorganisation of States can be done by an ordinary majority without following the special amendment procedure."
+        }
+      ],
+      "case_law_ids": []
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "bns_2023",
+  "title": "Bharatiya Nyaya Sanhita",
+  "short_title": "BNS",
+  "year": 2023,
+  "category": "criminal",
+  "is_active": true,
+  "description": "An educational summary of the Bharatiya Nyaya Sanhita, 2023, which consolidates and amends the law relating to offences. This Act replaced the Indian Penal Code, 1860.",
+  "chapters": [
+    {
+      "id": "bns_ch1",
+      "chapter_number": "I",
+      "title": "Preliminary",
+      "sections": [
+        {
+          "id": "bns_s1",
+          "section_number": "1",
+          "title": "Short title, extent and commencement",
+          "is_repealed": false,
+          "is_omitted": false,
+          "status_note": null,
+          "content": [
+            {
+              "type": "main",
+              "label": null,
+              "text": "Study note: This section specifies the short title of the Act as the 'Bharatiya Nyaya Sanhita, 2023'. It extends to the whole of India. The Act came into force on the date notified by the Central Government in the Official Gazette. For examination purposes: the Act came into force on 1st July 2024."
+            }
+          ],
+          "case_law_ids": []
+        },
+        {
+          "id": "bns_s2",
+          "section_number": "2",
+          "title": "Definitions",
+          "is_repealed": false,
+          "is_omitted": false,
+          "status_note": null,
+          "content": [
+            {
+              "type": "main",
+              "label": null,
+              "text": "Study note: This section contains the interpretation clause. Key definitions include: (1) 'Act' — includes a series of acts as well as a single act; (2) 'Animal' — any living creature other than a human being; (3) 'Court' includes all Courts and Judges who have authority to take evidence; (4) 'Document' — means any matter expressed or described upon any substance by means of letters, figures, or marks; (5) 'Electronic record' — has the meaning assigned to it in the Information Technology Act, 2000; (6) 'Grievous hurt' — defined as certain specified categories of hurt; (7) 'Harbour' — providing shelter, food, drink, money, clothes, arms, ammunition or means of conveyance."
+            },
+            {
+              "type": "explanation",
+              "label": "Note for students.—",
+              "text": "Many definitions in Section 2 of BNS are carried forward from the IPC with modifications. The important new additions include definitions relating to electronic records, organised crime, and terrorism, which were not defined in the original IPC."
+            }
+          ],
+          "case_law_ids": []
+        },
+        {
+          "id": "bns_s3",
+          "section_number": "3",
+          "title": "Punishments",
+          "is_repealed": false,
+          "is_omitted": false,
+          "status_note": null,
+          "content": [
+            {
+              "type": "main",
+              "label": null,
+              "text": "Study note: This section sets out the punishments to which offenders are liable under the Act. The punishments are: (a) Death; (b) Imprisonment for life; (c) Imprisonment of either description, namely — (i) rigorous imprisonment, (ii) simple imprisonment; (d) Forfeiture of property; (e) Fine; (f) Community service."
+            },
+            {
+              "type": "explanation",
+              "label": "Key innovation.—",
+              "text": "Community service is a new punishment introduced by the BNS, 2023 which was absent in the IPC. It is provided as an alternative punishment for minor offences as a measure of restorative justice."
+            }
+          ],
+          "case_law_ids": []
+        },
+        {
+          "id": "bns_s4",
+          "section_number": "4",
+          "title": "Fractions of terms of punishment",
+          "is_repealed": false,
+          "is_omitted": false,
+          "status_note": null,
+          "content": [
+            {
+              "type": "main",
+              "label": null,
+              "text": "Study note: In calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for twenty years. This is an important provision for calculating commutation of sentence and remission. Where a court imposes a sentence of less than one year, the fraction shall be calculated proportionally."
+            },
+            {
+              "type": "explanation",
+              "label": "Practical note.—",
+              "text": "This provision was previously Section 57 in the IPC. The number has changed in the BNS but the substantive law remains largely similar. The change in numbering from 57 to 4 reflects the rearrangement of preliminary provisions."
+            }
+          ],
+          "case_law_ids": []
+        }
+      ]
+    },
+    {
+      "id": "bns_ch2",
+      "chapter_number": "II",
+      "title": "General Explanations",
+      "sections": [
+        {
+          "id": "bns_s5",
+          "section_number": "5",
+          "title": "General explanations",
+          "is_repealed": false,
+          "is_omitted": false,
+          "status_note": null,
+          "content": [
+            {
+              "type": "main",
+              "label": null,
+              "text": "Study note: Every definition of an offence, every penal provision, and every illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled 'General Exceptions'. This means that the general exceptions apply throughout the Act unless a contrary intention appears."
+            }
+          ],
+          "case_law_ids": []
+        },
+        {
+          "id": "bns_s6",
+          "section_number": "6",
+          "title": "Punishments of offences committed within India",
+          "is_repealed": false,
+          "is_omitted": false,
+          "status_note": null,
+          "content": [
+            {
+              "type": "main",
+              "label": null,
+              "text": "Study note: Every person shall be liable to punishment under this Sanhita and not otherwise for every act or omission contrary to the provisions thereof of which he shall be guilty within India. This establishes the principle of territorial jurisdiction — the BNS applies to all persons (citizens and non-citizens) within Indian territory."
+            }
+          ],
+          "case_law_ids": []
+        }
+      ]
+    }
+  ]
+}

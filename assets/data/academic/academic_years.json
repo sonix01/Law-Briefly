@@ -1,0 +1,200 @@
+[
+  {
+    "id": "y1",
+    "title": "BALLB 1st Year",
+    "year_number": 1,
+    "program": "BALLB",
+    "first_semester": 1,
+    "last_semester": 2,
+    "subjects": [
+      {
+        "id": "y1_s1",
+        "title": "Constitutional Law I",
+        "description": "Fundamental Rights, Directive Principles, constitutional history, Preamble and amendment procedure.",
+        "pdf_path": "assets/pdfs/y1/constitutional_law_1.pdf",
+        "semester": 1,
+        "is_premium": false,
+        "total_pages": 248,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-01-15T00:00:00.000Z",
+        "is_downloaded": true
+      },
+      {
+        "id": "y1_s2",
+        "title": "Law of Contracts",
+        "description": "Indian Contract Act 1872 — offer, acceptance, consideration, void agreements, breach and remedies.",
+        "pdf_path": "assets/pdfs/y1/law_of_contracts.pdf",
+        "semester": 1,
+        "is_premium": false,
+        "total_pages": 312,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-01-15T00:00:00.000Z",
+        "is_downloaded": true
+      },
+      {
+        "id": "y1_s3",
+        "title": "Legal Methods and Research",
+        "description": "Legal reasoning, case analysis, statutory interpretation, research methodology and citation.",
+        "pdf_path": "assets/pdfs/y1/legal_methods.pdf",
+        "semester": 1,
+        "is_premium": false,
+        "total_pages": 186,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-01-20T00:00:00.000Z",
+        "is_downloaded": false
+      },
+      {
+        "id": "y1_s4",
+        "title": "Family Law I",
+        "description": "Hindu Marriage Act 1955, Hindu Succession Act 1956, Muslim personal law and adoption.",
+        "pdf_path": "assets/pdfs/y1/family_law_1.pdf",
+        "semester": 2,
+        "is_premium": false,
+        "total_pages": 274,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-02-01T00:00:00.000Z",
+        "is_downloaded": true
+      },
+      {
+        "id": "y1_s5",
+        "title": "Law of Torts",
+        "description": "Tort liability, negligence, defamation, nuisance, strict and absolute liability.",
+        "pdf_path": "assets/pdfs/y1/law_of_torts.pdf",
+        "semester": 2,
+        "is_premium": false,
+        "total_pages": 258,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-02-01T00:00:00.000Z",
+        "is_downloaded": false
+      },
+      {
+        "id": "y1_s6",
+        "title": "Political Science",
+        "description": "Political thought, constitutional governance, federalism, separation of powers and state theory.",
+        "pdf_path": "assets/pdfs/y1/political_science.pdf",
+        "semester": 2,
+        "is_premium": false,
+        "total_pages": 220,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-02-10T00:00:00.000Z",
+        "is_downloaded": false
+      }
+    ]
+  },
+  {
+    "id": "y2",
+    "title": "BALLB 2nd Year",
+    "year_number": 2,
+    "program": "BALLB",
+    "first_semester": 3,
+    "last_semester": 4,
+    "subjects": [
+      {
+        "id": "y2_s1",
+        "title": "Constitutional Law II",
+        "description": "Federal structure, emergency provisions, constitutional amendments and parliamentary procedure.",
+        "pdf_path": "assets/pdfs/y2/constitutional_law_2.pdf",
+        "semester": 3,
+        "is_premium": false,
+        "total_pages": 290,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-03-01T00:00:00.000Z",
+        "is_downloaded": true
+      },
+      {
+        "id": "y2_s2",
+        "title": "Administrative Law",
+        "description": "Delegated legislation, judicial review, natural justice and administrative tribunals.",
+        "pdf_path": "assets/pdfs/y2/administrative_law.pdf",
+        "semester": 3,
+        "is_premium": false,
+        "total_pages": 336,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-03-01T00:00:00.000Z",
+        "is_downloaded": false
+      },
+      {
+        "id": "y2_s3",
+        "title": "Criminal Law I — BNS 2023",
+        "description": "Bharatiya Nyaya Sanhita — general exceptions, offences against state, body and property.",
+        "pdf_path": "assets/pdfs/y2/criminal_law_1.pdf",
+        "semester": 3,
+        "is_premium": false,
+        "total_pages": 368,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-03-15T00:00:00.000Z",
+        "is_downloaded": true
+      },
+      {
+        "id": "y2_s4",
+        "title": "Jurisprudence",
+        "description": "Legal theory, schools of jurisprudence, concept of rights, duties and legal personality.",
+        "pdf_path": "assets/pdfs/y2/jurisprudence.pdf",
+        "semester": 4,
+        "is_premium": true,
+        "total_pages": 312,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-04-01T00:00:00.000Z",
+        "is_downloaded": false
+      },
+      {
+        "id": "y2_s5",
+        "title": "Transfer of Property Law",
+        "description": "Transfer of Property Act 1882 — sale, mortgage, lease, gift and exchange.",
+        "pdf_path": "assets/pdfs/y2/property_law.pdf",
+        "semester": 4,
+        "is_premium": false,
+        "total_pages": 296,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-04-01T00:00:00.000Z",
+        "is_downloaded": false
+      }
+    ]
+  },
+  {
+    "id": "y3",
+    "title": "BALLB 3rd Year",
+    "year_number": 3,
+    "program": "BALLB",
+    "first_semester": 5,
+    "last_semester": 6,
+    "subjects": [
+      {
+        "id": "y3_s1",
+        "title": "Criminal Law II — BNSS 2023",
+        "description": "Bharatiya Nagarik Suraksha Sanhita — investigation, trial, bail, appeals and sentencing.",
+        "pdf_path": "assets/pdfs/y3/criminal_law_2.pdf",
+        "semester": 5,
+        "is_premium": false,
+        "total_pages": 420,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-06-01T00:00:00.000Z",
+        "is_downloaded": false
+      },
+      {
+        "id": "y3_s2",
+        "title": "Code of Civil Procedure",
+        "description": "CPC 1908 — suits, jurisdiction, pleadings, appeals, revision and execution of decrees.",
+        "pdf_path": "assets/pdfs/y3/cpc.pdf",
+        "semester": 5,
+        "is_premium": false,
+        "total_pages": 390,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-06-01T00:00:00.000Z",
+        "is_downloaded": false
+      },
+      {
+        "id": "y3_s3",
+        "title": "Law of Evidence — BSA 2023",
+        "description": "Bharatiya Sakshya Adhiniyam — relevancy, admissibility, witnesses and electronic evidence.",
+        "pdf_path": "assets/pdfs/y3/evidence_law.pdf",
+        "semester": 5,
+        "is_premium": false,
+        "total_pages": 344,
+        "uploaded_by": "admin",
+        "uploaded_at": "2024-06-01T00:00:00.000Z",
+        "is_downloaded": true
+      }
+    ]
+  }
+]

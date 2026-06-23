@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cl_maneka_gandhi",
+    "title": "Maneka Gandhi v. Union of India",
+    "citation": "AIR 1978 SC 597",
+    "court": "Supreme Court of India",
+    "year": "1978",
+    "related_section_ids": [],
+    "related_article_ids": ["art_14", "art_21", "art_32"],
+    "related_act_ids": [],
+    "facts": "The petitioner's passport was impounded by the Government of India without giving any reason. She challenged the action as violating her fundamental right to personal liberty under Article 21. She was also denied the opportunity to make a representation against the order.",
+    "issues": "1. Whether the right to travel abroad is part of personal liberty under Article 21.\n2. Whether Article 21 must be read in conjunction with Articles 14 and 19.\n3. What constitutes procedure established by law.\n4. Whether a statutory procedure which is arbitrary or unreasonable satisfies the requirement of Article 21.",
+    "judgment": "The Supreme Court held that the procedure depriving a person of personal liberty must be fair, just and reasonable. The impoundment of the passport without notice or opportunity to be heard was unconstitutional. The Court overruled A.K. Gopalan v. State of Madras to the extent it held that Articles 19, 21 and 22 operated in separate watertight compartments.",
+    "reasoning": "Article 21 is not to be read in isolation. The procedure prescribed by law must comply with Articles 14 and 19. A mere ipse dixit of the legislature cannot determine what is procedure established by law. The procedure must be fair, just and reasonable — not arbitrary, fanciful or oppressive. The doctrine of due process is implicit in the Indian Constitution.",
+    "significance": "The most transformative judgment on Article 21 of the Constitution. Established the doctrine of due process in Indian constitutional law. Opened the era of expansive interpretation of Article 21 which led to recognition of numerous unenumerated rights including the right to livelihood, health, education and privacy."
+  },
+  {
+    "id": "cl_kesavananda",
+    "title": "Kesavananda Bharati v. State of Kerala",
+    "citation": "AIR 1973 SC 1461",
+    "court": "Supreme Court of India",
+    "year": "1973",
+    "related_section_ids": [],
+    "related_article_ids": ["art_368"],
+    "related_act_ids": [],
+    "facts": "The petitioner, head of a religious order in Kerala, challenged the Kerala Land Reforms Act which restricted the right to manage religious property. The case raised the fundamental question of whether Parliament's power to amend the Constitution under Article 368 was unlimited.",
+    "issues": "1. Whether Parliament has unlimited power to amend any provision of the Constitution.\n2. Whether the basic structure or framework of the Constitution is immune from constitutional amendment.\n3. Whether the decisions in Golak Nath v. State of Punjab and I.C. Golak Nath and Others v. State of Punjab should be overruled.",
+    "judgment": "By a majority of 7:6, the Supreme Court held that Parliament can amend any part of the Constitution but cannot abrogate or destroy its basic structure or essential features. Golak Nath was overruled but Parliament's amending power was held to be limited by the basic structure doctrine.",
+    "reasoning": "The word 'amend' in Article 368 implies modification within the framework of the original document. It does not include the power to abrogate the Constitution itself. The basic structure — comprising democracy, federalism, secularism, separation of powers and judicial review — forms the inviolable core of the Constitution which even the constituent power cannot destroy.",
+    "significance": "The most significant constitutional judgment in Indian legal history. The basic structure doctrine remains the most powerful limitation on parliamentary sovereignty. It has been applied to strike down numerous constitutional amendments including those affecting the fundamental right to property and judicial appointments."
+  },
+  {
+    "id": "cl_vishaka",
+    "title": "Vishaka v. State of Rajasthan",
+    "citation": "AIR 1997 SC 3011",
+    "court": "Supreme Court of India",
+    "year": "1997",
+    "related_section_ids": [],
+    "related_article_ids": ["art_14", "art_21"],
+    "related_act_ids": [],
+    "facts": "A social worker was gang-raped in retaliation for her work preventing a child marriage in Rajasthan. Several women's rights organisations filed a Public Interest Litigation highlighting the total absence of legislation against sexual harassment at the workplace in India.",
+    "issues": "1. Whether sexual harassment at the workplace violates fundamental rights under Articles 14, 15, 19(1)(g) and 21.\n2. Whether the Supreme Court can issue binding guidelines as law in the absence of legislation.\n3. Whether international conventions can be used to supplement domestic constitutional law.",
+    "judgment": "The Supreme Court issued the Vishaka Guidelines binding on all employers in both public and private sectors until Parliament enacted appropriate legislation. These guidelines constituted law under Article 141 until the Sexual Harassment of Women at Workplace Act, 2013 was enacted.",
+    "reasoning": "Sexual harassment at the workplace violates Article 14 (equality), Article 15 (non-discrimination), Article 19(1)(g) (right to practise a profession) and Article 21 (right to life with dignity). In the absence of domestic law, international conventions ratified by India — particularly CEDAW — can be used to fill the legislative void.",
+    "significance": "Foundational judgment establishing a judicially-created legislative code as binding law under Article 141. Demonstrated the Supreme Court's power to legislate as a measure of last resort when Parliament has not acted. Led directly to the enactment of the Sexual Harassment of Women at Workplace Act, 2013."
+  },
+  {
+    "id": "cl_olga_tellis",
+    "title": "Olga Tellis v. Bombay Municipal Corporation",
+    "citation": "AIR 1986 SC 180",
+    "court": "Supreme Court of India",
+    "year": "1986",
+    "related_section_ids": [],
+    "related_article_ids": ["art_21"],
+    "related_act_ids": [],
+    "facts": "Pavement and slum dwellers in Bombay challenged an order directing their eviction. They contended that their livelihood depended on their proximity to their place of work in the city and that eviction would deprive them of their means of livelihood.",
+    "issues": "1. Whether the right to livelihood is part of the right to life under Article 21.\n2. Whether the eviction of pavement dwellers without providing alternative accommodation violates Article 21.\n3. Whether the procedure for eviction satisfies the requirements of Articles 14 and 21.",
+    "judgment": "The Supreme Court held that the right to livelihood is an integral component of the right to life under Article 21. Deprivation of livelihood would amount to deprivation of life itself. However, the Court also held that the right is not absolute and can be restricted by law subject to the test of reasonableness.",
+    "reasoning": "No person can live without the means of living. The right to life guaranteed by Article 21 includes the right to livelihood. A law depriving a person of livelihood must satisfy the test of Article 21 — it must be just, fair and reasonable.",
+    "significance": "Established the right to livelihood as a fundamental right under Article 21. This significantly expanded the scope of Article 21 beyond mere physical existence to encompass dignified living. The case is foundational in Indian social justice jurisprudence."
+  }
+]
